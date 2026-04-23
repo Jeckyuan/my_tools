@@ -1,0 +1,56 @@
+127.0.0.1	localhost
+127.0.1.1	yuanzl-System-3
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+#192.168.170.230 gerrit
+#192.168.170.230 gerrit-review
+#192.168.170.230 www
+#192.168.170.230 grt.sy
+192.168.170.230 gitlab.grt.sy
+#192.168.170.120 gr04
+#192.168.170.120 trp.grt.sy
+#192.168.170.121 gr05
+#192.168.170.242 gr02
+#192.168.170.119 gr03
+#192.168.170.230 gr06
+#192.168.170.230 wiki.grt.sy
+#192.168.170.230 jiri.grt.sy
+#192.168.170.230 gerrit.grt.sy
+#192.168.170.230 openproject.grt.sy
+#192.168.170.230 jenkins.grt.sy
+#192.168.170.230 sonarqube.grt.sy
+#192.168.170.230 glpi.grt.sy
+#192.168.170.120 gitlab-summi.grt.sy
+#192.168.170.119 password.grt.sy
+
+
+#52.40.119.213 docker.com
+
+
+#copy from t-hypr docker
+192.168.170.230 gerrit
+192.168.170.230 gerrit-review
+192.168.170.230 www
+192.168.170.230 grt.sy
+192.168.170.120 trp.grt.sy
+192.168.170.242 gr02
+192.168.170.119 gr03
+192.168.170.120 gr04
+192.168.170.121 gr05
+192.168.170.230 gr06
+192.168.170.230 wiki.grt.sy
+192.168.170.230 jiri.grt.sy
+192.168.170.230 gerrit.grt.sy
+192.168.170.230 openproject.grt.sy
+192.168.170.230 jenkins.grt.sy
+192.168.170.230 sonarqube.grt.sy
+192.168.170.230 glpi.grt.sy
+192.168.170.120 gitlab-summi.grt.sy
+113.90.145.98 pvt.f3322.net
+192.168.170.230 gr_wiki.grt.sy
+112.28.134.53 www.goldenriver.com.cn
